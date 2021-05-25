@@ -1,2 +1,2 @@
 # BROcoin
-BTC+THC+=BRO
+BTC+THC+=BRO+
